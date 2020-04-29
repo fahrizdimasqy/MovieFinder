@@ -1,5 +1,5 @@
 # MovieFinder
-|tentang_project.
+<<tentang_project.
 
 ## Project setup
 {{npm install}}.
