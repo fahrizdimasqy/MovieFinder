@@ -1,0 +1,100 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+/* main {
+    width: 90%;
+    max-width: 800px;
+    margin: 32px auto;
+} */
+
+club-list {
+    margin-top: 32px;
+    width: 100%;
+    padding: 1o6px;
+    display: block;
+}
+
+.card-deck .card {
+    height: 120px;
+}
+
+.data-indonesia .card-deck .deck1 {
+    background-color: #e2a599;
+    color: white;
+}
+
+.data-indonesia .card-deck .deck2 {
+    background-color: #715f69;
+    color: white;
+}
+
+.data-indonesia .card-deck .deck3 {
+    background-color: #e45447;
+    color: white;
+}
+
+.data-indonesia .card-deck .deck4 {
+    background-color: #90acd1;
+    color: white;
+}
+
+.sub-header .jumbotron {
+    border-radius: 0%;
+}
+
+.sub-header img {
+    width: 550px;
+}
+
+.sub-header h1,
+p {
+    color: white;
+}
+
+
+@media (max-width: 576px) {
+    .sub-header h1 {
+        font-size: 24px;
+        color: white;
+    }
+
+    .sub-header p {
+        font-size: 14px;
+    }
+
+    .sub-header img {
+        width: 80%;
+        margin-top: 5%;
+    }
+
+    .table-data table {
+        font-size: 10px;
+    }
+
+    .table-data table th {
+        font-size: 9px;
+    }
+
+    .data-indonesia h1 {
+        font-size: 20px;
+    }
+
+    .table-data h1 {
+        font-size: 20px;
+    }
+
+    .indonesia-data-table h1 {
+        font-size: 20px;
+    }
+
+    .indonesia-data-table table {
+        font-size: 10px;
+    }
+}

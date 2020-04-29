@@ -1,0 +1,309 @@
+{
+    "prov": [{
+        "attributes": {
+            "FID": 11,
+            "Kode_Provi": 31,
+            "Provinsi": "DKI Jakarta",
+            "Kasus_Posi": 3869,
+            "Kasus_Semb": 337,
+            "Kasus_Meni": 367
+        }
+    }, {
+        "attributes": {
+            "FID": 12,
+            "Kode_Provi": 32,
+            "Provinsi": "Jawa Barat",
+            "Kasus_Posi": 951,
+            "Kasus_Semb": 96,
+            "Kasus_Meni": 78
+        }
+    }, {
+        "attributes": {
+            "FID": 15,
+            "Kode_Provi": 35,
+            "Provinsi": "Jawa Timur",
+            "Kasus_Posi": 796,
+            "Kasus_Semb": 140,
+            "Kasus_Meni": 88
+        }
+    }, {
+        "attributes": {
+            "FID": 13,
+            "Kode_Provi": 33,
+            "Provinsi": "Jawa Tengah",
+            "Kasus_Posi": 666,
+            "Kasus_Semb": 88,
+            "Kasus_Meni": 58
+        }
+    }, {
+        "attributes": {
+            "FID": 27,
+            "Kode_Provi": 73,
+            "Provinsi": "Sulawesi Selatan",
+            "Kasus_Posi": 440,
+            "Kasus_Semb": 106,
+            "Kasus_Meni": 37
+        }
+    }, {
+        "attributes": {
+            "FID": 16,
+            "Kode_Provi": 36,
+            "Provinsi": "Banten",
+            "Kasus_Posi": 382,
+            "Kasus_Semb": 33,
+            "Kasus_Meni": 40
+        }
+    }, {
+        "attributes": {
+            "FID": 18,
+            "Kode_Provi": 52,
+            "Provinsi": "Nusa Tenggara Barat",
+            "Kasus_Posi": 206,
+            "Kasus_Semb": 22,
+            "Kasus_Meni": 4
+        }
+    }, {
+        "attributes": {
+            "FID": 17,
+            "Kode_Provi": 51,
+            "Provinsi": "Bali",
+            "Kasus_Posi": 194,
+            "Kasus_Semb": 81,
+            "Kasus_Meni": 4
+        }
+    }, {
+        "attributes": {
+            "FID": 33,
+            "Kode_Provi": 94,
+            "Provinsi": "Papua",
+            "Kasus_Posi": 151,
+            "Kasus_Semb": 32,
+            "Kasus_Meni": 6
+        }
+    }, {
+        "attributes": {
+            "FID": 22,
+            "Kode_Provi": 63,
+            "Provinsi": "Kalimantan Selatan",
+            "Kasus_Posi": 150,
+            "Kasus_Semb": 10,
+            "Kasus_Meni": 6
+        }
+    }, {
+        "attributes": {
+            "FID": 6,
+            "Kode_Provi": 16,
+            "Provinsi": "Sumatera Selatan",
+            "Kasus_Posi": 129,
+            "Kasus_Semb": 18,
+            "Kasus_Meni": 3
+        }
+    }, {
+        "attributes": {
+            "FID": 3,
+            "Kode_Provi": 13,
+            "Provinsi": "Sumatera Barat",
+            "Kasus_Posi": 121,
+            "Kasus_Semb": 23,
+            "Kasus_Meni": 14
+        }
+    }, {
+        "attributes": {
+            "FID": 21,
+            "Kode_Provi": 62,
+            "Provinsi": "Kalimantan Tengah",
+            "Kasus_Posi": 112,
+            "Kasus_Semb": 10,
+            "Kasus_Meni": 5
+        }
+    }, {
+        "attributes": {
+            "FID": 2,
+            "Kode_Provi": 12,
+            "Provinsi": "Sumatera Utara",
+            "Kasus_Posi": 111,
+            "Kasus_Semb": 21,
+            "Kasus_Meni": 12
+        }
+    }, {
+        "attributes": {
+            "FID": 23,
+            "Kode_Provi": 64,
+            "Provinsi": "Kalimantan Timur",
+            "Kasus_Posi": 107,
+            "Kasus_Semb": 12,
+            "Kasus_Meni": 1
+        }
+    }, {
+        "attributes": {
+            "FID": 24,
+            "Kode_Provi": 65,
+            "Provinsi": "Kalimantan Utara",
+            "Kasus_Posi": 90,
+            "Kasus_Semb": 2,
+            "Kasus_Meni": 1
+        }
+    }, {
+        "attributes": {
+            "FID": 10,
+            "Kode_Provi": 21,
+            "Provinsi": "Kepulauan Riau",
+            "Kasus_Posi": 86,
+            "Kasus_Semb": 9,
+            "Kasus_Meni": 8
+        }
+    }, {
+        "attributes": {
+            "FID": 14,
+            "Kode_Provi": 34,
+            "Provinsi": "Daerah Istimewa Yogyakarta",
+            "Kasus_Posi": 83,
+            "Kasus_Semb": 37,
+            "Kasus_Meni": 7
+        }
+    }, {
+        "attributes": {
+            "FID": 20,
+            "Kode_Provi": 61,
+            "Provinsi": "Kalimantan Barat",
+            "Kasus_Posi": 51,
+            "Kasus_Semb": 7,
+            "Kasus_Meni": 3
+        }
+    }, {
+        "attributes": {
+            "FID": 28,
+            "Kode_Provi": 74,
+            "Provinsi": "Sulawesi Tenggara",
+            "Kasus_Posi": 45,
+            "Kasus_Semb": 6,
+            "Kasus_Meni": 2
+        }
+    }, {
+        "attributes": {
+            "FID": 9,
+            "Kode_Provi": 18,
+            "Provinsi": "Lampung",
+            "Kasus_Posi": 42,
+            "Kasus_Semb": 10,
+            "Kasus_Meni": 5
+        }
+    }, {
+        "attributes": {
+            "FID": 25,
+            "Kode_Provi": 71,
+            "Provinsi": "Sulawesi Utara",
+            "Kasus_Posi": 40,
+            "Kasus_Semb": 11,
+            "Kasus_Meni": 3
+        }
+    }, {
+        "attributes": {
+            "FID": 4,
+            "Kode_Provi": 14,
+            "Provinsi": "Riau",
+            "Kasus_Posi": 39,
+            "Kasus_Semb": 14,
+            "Kasus_Meni": 4
+        }
+    }, {
+        "attributes": {
+            "FID": 26,
+            "Kode_Provi": 72,
+            "Provinsi": "Sulawesi Tengah",
+            "Kasus_Posi": 36,
+            "Kasus_Semb": 3,
+            "Kasus_Meni": 3
+        }
+    }, {
+        "attributes": {
+            "FID": 30,
+            "Kode_Provi": 76,
+            "Provinsi": "Sulawesi Barat",
+            "Kasus_Posi": 35,
+            "Kasus_Semb": 1,
+            "Kasus_Meni": 1
+        }
+    }, {
+        "attributes": {
+            "FID": 5,
+            "Kode_Provi": 15,
+            "Provinsi": "Jambi",
+            "Kasus_Posi": 32,
+            "Kasus_Semb": 1,
+            "Kasus_Meni": 0
+        }
+    }, {
+        "attributes": {
+            "FID": 32,
+            "Kode_Provi": 82,
+            "Provinsi": "Maluku Utara",
+            "Kasus_Posi": 26,
+            "Kasus_Semb": 2,
+            "Kasus_Meni": 0
+        }
+    }, {
+        "attributes": {
+            "FID": 31,
+            "Kode_Provi": 81,
+            "Provinsi": "Maluku",
+            "Kasus_Posi": 22,
+            "Kasus_Semb": 11,
+            "Kasus_Meni": 0
+        }
+    }, {
+        "attributes": {
+            "FID": 34,
+            "Kode_Provi": 91,
+            "Provinsi": "Papua Barat",
+            "Kasus_Posi": 16,
+            "Kasus_Semb": 0,
+            "Kasus_Meni": 1
+        }
+    }, {
+        "attributes": {
+            "FID": 29,
+            "Kode_Provi": 75,
+            "Provinsi": "Gorontalo",
+            "Kasus_Posi": 14,
+            "Kasus_Semb": 0,
+            "Kasus_Meni": 1
+        }
+    }, {
+        "attributes": {
+            "FID": 8,
+            "Kode_Provi": 19,
+            "Provinsi": "Kepulauan Bangka Belitung",
+            "Kasus_Posi": 10,
+            "Kasus_Semb": 2,
+            "Kasus_Meni": 1
+        }
+    }, {
+        "attributes": {
+            "FID": 1,
+            "Kode_Provi": 11,
+            "Provinsi": "Aceh",
+            "Kasus_Posi": 9,
+            "Kasus_Semb": 4,
+            "Kasus_Meni": 1
+        }
+    }, {
+        "attributes": {
+            "FID": 7,
+            "Kode_Provi": 17,
+            "Provinsi": "Bengkulu",
+            "Kasus_Posi": 8,
+            "Kasus_Semb": 1,
+            "Kasus_Meni": 1
+        }
+    }, {
+        "attributes": {
+            "FID": 19,
+            "Kode_Provi": 53,
+            "Provinsi": "Nusa Tenggara Timur",
+            "Kasus_Posi": 1,
+            "Kasus_Semb": 1,
+            "Kasus_Meni": 0
+        }
+    }]
+}
